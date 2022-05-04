@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Administrator\source\repos\Data_Mining\Data_Mining\Source.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\Data_Mining\Data_Mining\Source.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\Data_Mining\Data_Mining\Source.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\Data_Mining\Data_Mining\Source.cpp(63,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\Data_Mining\Data_Mining\Source.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\Data_Mining\Data_Mining\Source.cpp(79,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\Data_Mining\Data_Mining\Source.cpp(90,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\Data_Mining\Data_Mining\Source.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\Data_Mining\Data_Mining\Source.cpp(123,21): warning C4018: '<': signed/unsigned mismatch
+  Data_Mining.vcxproj -> C:\Users\Administrator\source\repos\Data_Mining\Debug\Data_Mining.exe
